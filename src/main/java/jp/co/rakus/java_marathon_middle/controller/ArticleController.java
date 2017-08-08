@@ -14,7 +14,7 @@ import jp.co.rakus.java_marathon_middle.service.ArticlelService;
 
 /**
  * 記事関連処理コントローラー.
- * 
+ * コントローラー
  * @author toshiakisato
  *
  */
